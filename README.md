@@ -1,7 +1,7 @@
 Task: Color Recognition Using OpenCV in Python
 For this task, I was asked to create a simple project using OpenCV to detect and recognize colors based on mouse clicks on an image. I decided to build an interactive tool where I can click anywhere on a picture, and it’ll show me the name of the closest matching color along with its RGB values.
 
-Tools, Libraries & Technologies I Used:
+Tools, Libraries & Technologies I Used: 
 1. Python 3.10.9
 Main programming language I used to write and run the script.
 
